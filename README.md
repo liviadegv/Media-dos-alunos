@@ -1,1 +1,1 @@
-# Media-dos-alunos
+# Media-dos-alunos-py
